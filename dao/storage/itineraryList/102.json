@@ -1,0 +1,9 @@
+{
+    "id": "102",
+    "title": "European Adventure",
+    "destinationIds": ["1", "3"],
+    "startDate": "2024-05-20",
+    "endDate": "2024-06-10",
+    "description": "Experience the romance of Paris and the vibrant culture of New York City in one epic trip.",
+    "userId": "502"
+}
